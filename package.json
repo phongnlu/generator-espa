@@ -1,0 +1,31 @@
+{
+  "name": "generator-espa",
+  "version": "0.0.1",
+  "description": "yeoman generator for ESPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phongnlu/generator-espa.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "generator-espa",
+    "espa",
+    "generator"
+  ],
+  "author": "phong lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phongnlu/generator-espa/issues"
+  },
+  "homepage": "https://github.com/phongnlu/generator-espa#readme",
+  "dependencies": {
+    "yeoman-generator": "^3.1.1"
+  },
+  "files": [
+    "app"
+  ]
+}
