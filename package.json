@@ -1,6 +1,6 @@
 {
   "name": "generator-espa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "yeoman generator for ESPA",
   "main": "index.js",
   "scripts": {
